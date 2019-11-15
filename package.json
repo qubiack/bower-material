@@ -28,7 +28,7 @@
   "homepage": "https://material.angularjs.org",
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular/material.git"
+    "url": "git://github.com/angular/material.git#release/1.1.7"
   },
   "license": "MIT",
   "licenses": [

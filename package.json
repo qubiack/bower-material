@@ -1,6 +1,6 @@
 {
   "name": "angular-material",
-  "version": "1.1.20-master-595fefe",
+  "version": "1.1.20-beta-rc.1",
   "main": "index",
   "format": "cjs",
   "registry": "github",
@@ -28,7 +28,7 @@
   "homepage": "https://material.angularjs.org",
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular/material.git#release/1.1.7"
+    "url": "git://github.com/angular/material.git"
   },
   "license": "MIT",
   "licenses": [
